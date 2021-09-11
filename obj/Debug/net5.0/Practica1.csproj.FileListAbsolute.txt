@@ -1,0 +1,16 @@
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.csproj.AssemblyReference.cache
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.AssemblyInfo.cs
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\bin\Debug\net5.0\Practica1.exe
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\bin\Debug\net5.0\Practica1.deps.json
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\bin\Debug\net5.0\Practica1.runtimeconfig.json
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\bin\Debug\net5.0\Practica1.runtimeconfig.dev.json
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\bin\Debug\net5.0\Practica1.dll
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\bin\Debug\net5.0\ref\Practica1.dll
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\bin\Debug\net5.0\Practica1.pdb
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.dll
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\ref\Practica1.dll
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.pdb
+C:\Users\KingB\OneDrive - Universidad Católica Nordestana (UCNE)\Principal\Actuales\3-2021\Programacion Aplicada I\EjerciciosCapitulos\Practica1\obj\Debug\net5.0\Practica1.genruntimeconfig.cache
